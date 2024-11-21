@@ -17,6 +17,18 @@ main{
     padding: 2%;
 }
 
+.q{
+    display: flex;
+    flex-direction: row;
+    margin-top: 2%;
+    justify-content: space-between;
+    width: 81%;
+    align-items: center;
+    color: white;
+}
+
+
+
 .logout{
     width: 32px;
     margin-right: 1%;
@@ -34,7 +46,6 @@ main{
 }
 
 .cards{
-    margin-top: 5%;
     flex-wrap: wrap;
     flex-direction: row;
     display: flex;

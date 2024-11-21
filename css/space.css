@@ -32,6 +32,27 @@ main{
     width: 150px;
 }
 
+.pa{
+    background-color: white !important;
+    margin-right: 2%;
+}
+
+.div{
+    width: 200px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.q{
+    display: flex;
+    flex-direction: row;
+    margin: 1%;
+    justify-content: space-between;
+    width: 100%;
+    align-items: center;
+    color: white;
+}
+
 .myspace{
     width: 100%;
     display: flex;
